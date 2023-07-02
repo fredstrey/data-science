@@ -13,7 +13,7 @@ Os resultados da previsão foram salvos no arquivo base_submission (o resultado 
 
 O projeto 3 webscrapping.ipynb
 
-utilizamos a biblioteca BeautifulSoup para fazer raspagem de dados no site do mercado livre, o algoritmo salva as informações referentes ao titulo do anuncio e preço do produto num arquivo csv product_data.csv
+utilizando a biblioteca BeautifulSoup para fazer raspagem de dados no site do mercado livre, o algoritmo salva as informações referentes ao titulo do anuncio e preço do produto num arquivo csv product_data.csv
 
 O projeto 4: cafe.ipynb
 
