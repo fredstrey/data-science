@@ -1,5 +1,5 @@
 # data-science
-web scraping, analise de dados e ciencia de dados
+
 O projeto 'analise_de_sentimento_chatgpt', faz uma raspagem de dados em tweets utilizando a biblioteca snscrape. 
 Os tweets são armazenados em um data frame e posteriormente feita analise de sentimento utilizando o chat GPT, através da biblioteca OpenAi
 
