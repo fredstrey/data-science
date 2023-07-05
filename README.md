@@ -18,3 +18,11 @@ utilizando a biblioteca BeautifulSoup para fazer raspagem de dados no site do me
 O projeto 4: cafe.ipynb
 
 constitui de uma analise preditiva da produção de cafe no brasil em que, utilizando dados disponibilizados no site https://www.fao.org/faostat/en/#data/QCL, é construído um modelo preditivo utilizando sklearn com médoto de regressão linear de ML. 
+
+O projeto 5: dota2.ipynb
+
+Modelo que busca prever a probabilidade de vitoria de times proficionais em campeonatos de Dota 2. Utilizando como base 
+alguns valores médios de estatísicas das partidas (K/D/A, OPM, XPM, LH e Denies), usando dados de majors e dpcs passados 
+o modelo tenta prever a winrate dos times da major de Bali utilizando resultados parciais referentes ao dia 05/07/2023.
+(bases de dado disponiveis em www.datdota.com)
+O modelo ajuda a identificar equipes que estão tendo melhores resultados ao longo do campeonato, podendo ser util para prever o vencedor
