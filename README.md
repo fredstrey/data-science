@@ -1,8 +1,20 @@
 # data-science
+
+Projeto: rain.ipynb
+
+Modelo preditivo criado utilizando método de regressão logistica do Sklearn. Os dados são obtidos diretamente da API do site: https://open-meteo.com/. 
+O modelo consegue prever com boa precisão se choveu em uma região geográfica em um intervalo de tempoespecífico.
+
+https://github.com/fredstrey/data-science/blob/main/rain.ipynb
+
+*************************************************************************************************************************************************
+
+
+
 Projeto: temperatura_2m.ipynb
 
 Modelo preditivo criado utilizando método de regressão linear do Sklearn. Os dados são obtidos diretamente da API do site: https://open-meteo.com/. 
-O modelo consegue prever com boa precisão a temperatura à 2m do solo por região geográfica e dia/horário.
+O modelo consegue prever com boa precisão a temperatura à 2m do solo por região geográfica em um intervalo de tempo específico.
 
 https://github.com/fredstrey/data-science/blob/main/temperatura_2m.ipynb
 
