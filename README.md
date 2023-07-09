@@ -3,7 +3,7 @@
 Projeto: rain.ipynb
 
 Modelo preditivo criado utilizando método de regressão logistica do Sklearn. Os dados são obtidos diretamente da API do site: https://open-meteo.com/. 
-O modelo consegue prever com boa precisão se choveu em uma região geográfica em um intervalo de tempoespecífico.
+O modelo consegue prever com boa precisão se choveu em uma região geográfica em um intervalo de tempo específico.
 
 https://github.com/fredstrey/data-science/blob/main/rain.ipynb
 
