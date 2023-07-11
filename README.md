@@ -1,5 +1,16 @@
 # data-science
 
+Projeto: doença_cafe.ipynb
+
+Modelo de classificação que utiliza método de Rede neural convolucional do Keras e TensorFlow para classificar doenças em plantas de café, utilizando foto de folhas doentes. O modelo consegue classificar com boa precisão se a doença foi causada pelo Bicho mineiro (Leucoptera coffeella)
+ou pelo fungo da Ferrugem do cafeeiro (Hemileia vastatrix).
+
+Dados disponíveis em: https://www.kaggle.com/datasets/alvarole/coffee-leaves-disease
+
+https://github.com/fredstrey/data-science/blob/main/doen%C3%A7a_cafe.ipynb
+
+
+*************************************************************************************************************************************************
 Projeto: rain.ipynb
 
 Modelo preditivo criado utilizando método de regressão logistica do Sklearn. Os dados são obtidos diretamente da API do site: https://open-meteo.com/. 
