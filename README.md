@@ -1,6 +1,6 @@
 # data-science
 
-Projeto: doenças_cafe.ipynb
+Projeto: doenças_cafe1.ipynb
 
 Modelo de classificação que utiliza método de Rede neural convolucional do Keras e TensorFlow para classificar doenças em plantas de café utilizando foto de folhas doentes. O modelo consegue classificar com boa precisão se a folha é saudável ou se possui doença causada pelo Bicho mineiro (Leucoptera coffeella), pelo fungo da Ferrugem do cafeeiro (Hemileia vastatrix) ou pelo fungo do Phoma.
 
